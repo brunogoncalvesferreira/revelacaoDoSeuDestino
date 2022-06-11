@@ -7,7 +7,7 @@ const inputPergunta = document.getElementById('inputPergunta')
 
 const buttonPerguntar = document.getElementById('buttonPerguntar')
 
-// clicar em fazer perguta
+// clicar em fazer pergunta
 
 const respostas = [
   'Certeza!',
